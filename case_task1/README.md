@@ -1,7 +1,3 @@
-## Описание 
-
-https://github.com/Aleksey-Krylov-51/case_task3/tree/main/case_task1
-
 ## Установка
 
 ```bash
